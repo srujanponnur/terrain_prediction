@@ -5,6 +5,8 @@ __pycache__/
 TrainingData/
 TestData/
 model/
+output/
+backup_output/
 # C extensions
 *.so
 
