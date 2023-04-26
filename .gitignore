@@ -5,6 +5,7 @@ __pycache__/
 TrainingData/
 TestData/
 model/
+testenv/
 output/
 backup_output/
 # C extensions
